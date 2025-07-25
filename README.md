@@ -17,9 +17,3 @@ python tiny_macro.py
 | -------------- | ------------------------- |
 | Stop recording | **F7** or **Pause/Break** |
 | Abort playback | **F8**                    |
-
-## Files
-
-* **tiny\_macro.py** – the app.
-* **requirements.txt** – deps (`pynput`, `pyautogui`, `pillow`, `pywin32`).
-* **macro.json** – last recording (auto‑created; delete anytime).
