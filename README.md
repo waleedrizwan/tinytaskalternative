@@ -1,5 +1,3 @@
-# Tiny Task Alternative
-
 Alternative to [Tiny Task](https://tinytask.net/), single‑file Python tool to record and replay mouse & keyboard input on Windows. 
 ---
 
