@@ -1,4 +1,4 @@
-Alternative to [Tiny Task](https://tinytask.net/), single‑file Python tool to record and replay mouse & keyboard input on Windows. 
+Alternative to [Tiny Task](https://tinytask.net/), single‑file Python tool to record and replay mouse & keyboard input on Windows. Will save recordings locally to macro.json.
 
 ## Install & Run
 
