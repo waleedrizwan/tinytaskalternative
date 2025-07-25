@@ -1,0 +1,4 @@
+pynput==1.7.6
+pyautogui==0.9.54
+pillow==10.3.0     # pyautogui’s screenshot dependency
+pywin32==306       # required by pyautogui on Windows
